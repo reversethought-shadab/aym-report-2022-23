@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 600px) {
+    .navbar {
+        padding: 3px 12px;
+    }
+    .logo-main img {
+        max-width: 45px;
+    }
+  }
