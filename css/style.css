@@ -20,10 +20,10 @@ html{
     font-family: 'zurich';
     src: url(../font/ZurichBT-Roman.otf);
 }
-@font-face {
+/* @font-face {
     font-family: 'zurich-roman';
     src: url(../font/ZurichBT-RomanCondensed.otf)
-}
+} */
 body {
     font-family: 'zurich', sans-serif;
     background: #fafafa;
